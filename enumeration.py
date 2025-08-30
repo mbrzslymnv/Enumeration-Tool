@@ -22,7 +22,7 @@ headers = {"User-Agent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHT
 
 def dir_enum():
     
-    
+    #hello 123
     # Open given wordlist and read 
     with open(args.w, "r") as file:
         directories = file.readlines()
