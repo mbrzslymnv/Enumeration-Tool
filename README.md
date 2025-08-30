@@ -10,6 +10,8 @@ git clone https://github.com/mbrzslymnv/Enumeration-Tool.git
 
 python enumeration.py -h
 
+For linux/macos use python3 
+
 Usage for directory enumeration:
 
 python enumeration.py -m dir -d domain_name -w "/path/to/wordlist"
