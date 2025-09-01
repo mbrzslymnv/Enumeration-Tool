@@ -8,6 +8,8 @@ git clone https://github.com/mbrzslymnv/Enumeration-Tool.git
 
 ### Usage
 
+pip install -r requirements.txt
+
 python enumeration.py -h
 
 For linux/macOS use python3 
